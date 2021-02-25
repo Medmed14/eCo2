@@ -11,7 +11,7 @@ La partie admin permet la création / la modification / et la suppression de con
 
 ENG
 
-eCo2 is an online video game sales site. I invented the concept.
+eCo2 is an online video game sales website. I invented the concept.
 
 "For every game purchased, a tree planted!"
 
