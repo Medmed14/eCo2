@@ -1,6 +1,6 @@
 FR
 
-eCo2 est un site de vente en ligne de jeux vidéos. J'ai inventé le concept.
+eCo2 est un site de vente en ligne de jeux vidéos. J'ai inventé un concept;
 
 "Pour chaque jeu acheté, un arbre planté!"
 
